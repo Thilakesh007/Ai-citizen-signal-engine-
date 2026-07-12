@@ -1,0 +1,11 @@
+streamlit
+pandas
+numpy
+folium
+streamlit-folium
+plotly
+scikit-learn
+textblob
+streamlit-js-eval
+streamlit-aggrid
+requests
